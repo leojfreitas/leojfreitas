@@ -1,9 +1,7 @@
 👋Olá, Sou o Leonardo Freitas, seja bem vindo ao meu GitHub.
 Aqui compartilho minha jornada dentro do mundo Dev.
 
-![Leonardo GitHub stats](height="180em" https://github-readme-stats.vercel.app/api?username=leojfreitas&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leojfreitas&langs_count=8)](https://github.com/leojfreitas)
-
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leojfreitas&show_icons=true&theme=radical)
 
 Tecnologias que uso
 <div></br>
