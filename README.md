@@ -3,7 +3,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leojfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojfreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<h2><strong>Tecnologias que uso</strong></h2>
+<h2><strong>🕸️ WEB DEV</strong></h2>
 <div>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -14,7 +14,7 @@
 
 </div></br>
 
-<h2><strong>Minhas redes sociais:</strong></h2>
+<h2><strong> 🌏 **CONNECT WITH ME**</strong></h2>
 
 <div>
 <a href="https://twitter.com/leojfreitas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
