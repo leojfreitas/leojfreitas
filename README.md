@@ -3,7 +3,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leojfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojfreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<h2><strong>🕸️ WEB DEV</strong></h2>
+
+<a href="http://www.github.com/leojfreitas"><img src="https://activity-graph.herokuapp.com/graph?username=leojfreitas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<br />
+
+<h2><strong>🕸️ DEV</strong></h2>
 <div>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
