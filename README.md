@@ -2,6 +2,7 @@
 Aqui compartilho minha jornada dentro do mundo Dev.
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leojfreitas&show_icons=true&theme=radical)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojfreitas&layout=compact&langs_count=7&theme=dracula"/>
 
 <h2><strong>Tecnologias que uso</strong></h2>
 <div>
