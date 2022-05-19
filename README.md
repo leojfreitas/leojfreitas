@@ -2,9 +2,10 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leojfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojfreitas&layout=compact&langs_count=7&theme=dracula"/>
+<a href="http://www.github.com/leojfreitas"><img src="https://activity-graph.herokuapp.com/graph?username=leojfreitas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
-<a href="http://www.github.com/leojfreitas"><img src="https://activity-graph.herokuapp.com/graph?username=leojfreitas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <br />
 
