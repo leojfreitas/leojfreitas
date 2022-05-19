@@ -1,4 +1,5 @@
-Olá, Sou o Leonardo Freitas, seja bem vindo ao meu GitHub.
+👋Olá, Sou o Leonardo Freitas, seja bem vindo ao meu GitHub.
+Aqui compartilho minha jornada dentro do mundo Dev.
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leojfreitas&show_icons=true&theme=radical)
 
@@ -13,12 +14,12 @@ Tecnologias que uso
 <img alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-</div>
+</div></br>
 
-Minhas redes sociais:
+Minhas redes sociais:</br>
 
 <div></br>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
+<a href="https://twitter.com/leojfreitas" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 
 </div>
 
